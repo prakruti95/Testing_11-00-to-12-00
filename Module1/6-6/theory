@@ -1,0 +1,75 @@
+Testing:
+
+Types of Testing: 
+
+1)Manual Testing:
+-> Websites
+-> Mobile App
+-> Desktop Software
+
+2)Automation Testing:Software,Code[Java][Selenium]
+
+
+What is Testing?
+-> Testing is a process used to identify correctness,completeness
+and quality of developed computer software.
+
+
+correctness -> As per user's requirement improve functionality
+completeness -> Complete User's Requirement 100%
+quality -> User Maintain
+
+
+Software : Lifecycle
+SDLC -> Software Development Lifecycle
+
+Stages of SDLC
+
+1)Requirement Gathering:
+Types of Requirement
+  i)Functional Requirement
+ ii)Non Functional Requirement
+
+
+2)Analysis:
+->what
+->how
+
+3)Designing:
+->web design
+->graphic design
+
+4)Implementation:
+->coding
+
+
+5)Testing:
+
+6)Maintenance:
+  i)Corrective : You have to Correct Functionality
+ ii)Adaptive : Add your Software on New platform
+iii)Perfective : Make your application more perfective
+
+
+-> Written
+-> Table
+-> Diagram
+
+Software:
+RFFLOW ->offline[]
+app.diagram->online
+
+UML[Unified Modeling Language]
+
+
+
+
+
+
+
+
+
+
+
+
+
