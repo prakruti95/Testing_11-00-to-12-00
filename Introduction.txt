@@ -25,8 +25,7 @@ Tops Career Center:
   -> Aadhar -Front
   -> Aadhar - Back
 
-=> Mon,Wed,Fri [11:00 to 12:00]
-   Tue,Thu,Sat [Practice Days]	
+=> Daily[3:00 to 4:00]
 
 
 ==========================================
