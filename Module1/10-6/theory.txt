@@ -1,0 +1,32 @@
+Error -> if developer makes an mistake in coding
+
+Defect-> if that error will found by tester 
+then it's called defect
+
+Bug -> if that defect is accepted by development team
+
+Failure -> unncessary actions happens that will be called
+failure
+
+What is Testing?
+-> testing is a process used to identify correctness,completeness and 
+quality of developed computer software.
+
+SDLC -> Software Development Lifecycle
+6 stages
+
+Models ->
+1)Waterfall Model->rigidity
+
+2)Iterative Model
+3)Spiral Model
+4)Agile Model
+-------------------------------
+5)V-Model
+
+
+
+
+
+
+
