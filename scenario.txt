@@ -1,0 +1,4 @@
+
+Mobile app crashes when uploading a profile picture. How do you reproduce and report it?
+
+Customer is unable to download an invoice from their account. How will you troubleshoot?
