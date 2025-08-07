@@ -1,0 +1,21 @@
+1)localhost:5050
+
+2)Email & Pass:
+tops@tops-int.com
+tops123
+
+3)
+5 Account - 2 Tester & 3 Developer
+
+4)Product add
+Component Add
+
+5) click on New Assign Errors
+
+6) Open with dev. account solve error
+
+7) again open as a tester account and either reopen or fixed the error
+
+8) generate CSV report
+
+

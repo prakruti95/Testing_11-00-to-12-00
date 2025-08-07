@@ -1,0 +1,26 @@
+1)
+localhost:5050
+
+2)
+Email & pass-Login:
+tops@tops-int.com
+tops123
+
+3)
+Account Create-Anit - Main Account
+2 Accounts
+Krish - editbugs - developer
+Pratham -admin - tester
+
+
+5 Account:
+2 Tester
+3 Developer
+
+Project [Product Add]
+Componenets Add
+
+
+
+
+
